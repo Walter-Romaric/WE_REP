@@ -13,3 +13,4 @@ tqdm>=4.66.1
 Pillow>=10.1.0
 streamlit>=1.29.0
 opencv-python>=4.8.*
+fpdf>=1.7.2
